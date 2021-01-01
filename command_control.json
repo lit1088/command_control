@@ -1,0 +1,11 @@
+
+[
+  {
+    "Project": "dongtaoyun",
+    "Allow_peer_control": "yes"
+},
+  {
+    "Project": "Project2",
+    "Allow_peer_control": 1
+}
+]
