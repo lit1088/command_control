@@ -6,6 +6,6 @@
 },
   {
     "Project_Name": "Project2",
-    "Allow_peer_control": 'no'
+    "Allow_peer_control": ""
 }
 ]
