@@ -2,7 +2,7 @@
 [
   {
     "Project_Name": "dongtaoyun",
-    "Allow_peer_control": "yes"
+    "Allow_peer_control": "no"
 },
   {
     "Project_Name": "Project2",
